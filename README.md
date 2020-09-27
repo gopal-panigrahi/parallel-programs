@@ -1,4 +1,4 @@
-# parallel-programs
+# Parallel Programs in OpenMP
 Contains parallel program written in C using OpenMP
 
 ## OpenMP
