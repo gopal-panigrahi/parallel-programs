@@ -1,5 +1,5 @@
 # Parallel Programs in OpenMP
-Contains parallel program written in C using OpenMP
+Contains parallel programs written in C using OpenMP
 
 ## OpenMP
 It is the parallel programming feature provided in C /C++ /Fortran.
